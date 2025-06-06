@@ -1,1 +1,3 @@
-# dem
+# Solidity contracts for a decentralized marketplace
+
+This repo includes the contracts in Solidty for a decentralized marketplace which operates 100% on-chain. This supports all EVM chains, such as Polygon and Harmony One...
